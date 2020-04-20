@@ -3,7 +3,7 @@ from user import User
 import random
 import string
 
- 
+
 def create_user(username,account_name,password):
         '''
         function to create new user
