@@ -18,7 +18,7 @@ def save_user(user):
     fuction to save user
     '''
     user.save_user()
- 
+
 
 def del_user(user):
     '''
