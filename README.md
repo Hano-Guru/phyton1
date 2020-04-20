@@ -16,4 +16,10 @@ this is where you can create an account that allows user to create user account 
 2. copy the clone commond .
 3. from the (R.E.P.L) terminal you use
     git clone <https://github.com/Hano-Guru/phyton1.git>'
-4. 
+
+## technology used
+
+. python
+. Git
+
+## 
