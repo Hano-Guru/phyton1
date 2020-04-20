@@ -29,7 +29,7 @@ class creadentials:
     def find_by_username(cls, username):
         '''
         method that allows to take in a username and returns a user that matches with  that username .
-
+ 
 
         Args:
             user:username to search for
