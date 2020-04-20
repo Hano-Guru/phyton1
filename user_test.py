@@ -42,7 +42,7 @@ class TestUser(unittest.TestCase):
         '''
         tearDown method  does clean up after test case has run.
         '''
-
+ 
         User.user_list = []
 
     def test_save_multiple_user(self):
