@@ -70,7 +70,7 @@ class TestUser(unittest.TestCase):
         '''
         this is to check if we can find user by a username and display information
         '''
-
+ 
         self.new_user.save_user()
         test_user = User("Hano-Guru", "instergram", "Hano232")
         test_user.save_user()
