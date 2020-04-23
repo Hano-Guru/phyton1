@@ -50,11 +50,7 @@ class User:
         for user in cls.user_list:
             if user.username == username:
                 return True
-ser_list), 2)
 
-    def tearDown(self):
-        '''
-        tearDown method  does clean 
         return False
 
 
